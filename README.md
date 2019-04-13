@@ -4,7 +4,7 @@ Fully customizable segmented control view component for IOS written with Swift 4
 ## Screen shots: 
 <div align=center>
     <img style="display: inline-block;" src="https://github.com/Coder-ACJHP/UICSegmentedControlView/blob/master/UICSegmentedControl/Assets.xcassets/ScreenShot-2.dataset/ScreenShot-2.gif">
-    <img style="display: inline-block;" src="https://github.com/Coder-ACJHP/UICSegmentedControlView/blob/master/UICSegmentedControl/Assets.xcassets/UICSegmentControlView_ScreenShot.dataset/UICSegmentControlView_ScreenShot.gif">
+    <img style="display: inline-block;" src="https://github.com/Coder-ACJHP/UICSegmentedControlView/blob/master/UICSegmentedControl/Assets.xcassets/UICSegmentControlView_ScreenShot.dataset/UICSegmentControlView_ScreenShot.gif" width=350 height=700>
 </div>
 
 ## Options: 
